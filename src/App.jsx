@@ -42,6 +42,12 @@ function App() {
             Mountain
           </button>
 
+          <button
+            onClick={() => setImage("https://images.unsplash.com/photo-1621795307430-3ff25aa08945")}
+            className='px-4 py-1 rounded-full text-white shadow-lg bg-yellow-700'>
+            Dessert
+          </button>
+
         </div>
       </div>
 
