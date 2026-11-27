@@ -27,7 +27,7 @@ function App() {
           <button
             onClick={() => setImage("https://images.unsplash.com/photo-1518837695005-2083093ee35b")}
             className='px-4 py-1 rounded-full text-white shadow-lg bg-blue-500'>
-            Ocean
+            Ocean 12
           </button>
 
           <button
